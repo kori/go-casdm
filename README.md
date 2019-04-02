@@ -1,2 +1,2 @@
 # go-casdm
-Golang library to interact with CA's Service Desk Manager.
+Golang library to deal with CA's Service Desk Manager API.
